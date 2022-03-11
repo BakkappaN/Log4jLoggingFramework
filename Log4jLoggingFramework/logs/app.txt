@@ -1,0 +1,10 @@
+2022-03-10T19:28:28,266 [main] INFO  (Log4jDemo.java:17) - This is info message
+2022-03-10T19:28:28,269 [main] WARN  (Log4jDemo.java:18) - This is warn message
+2022-03-10T19:28:28,270 [main] FATAL (Log4jDemo.java:19) - This is fatal message
+2022-03-10T19:28:28,270 [main] ERROR (Log4jDemo.java:20) - This is error message
+2022-03-10T19:38:20,087 [main] ERROR (Log4jDemo.java:27) - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 3
+2022-03-10T19:38:50,268 [main] INFO  (Log4jDemo.java:18) - This is info message
+2022-03-10T19:38:50,272 [main] WARN  (Log4jDemo.java:19) - This is warn message
+2022-03-10T19:38:50,272 [main] FATAL (Log4jDemo.java:20) - This is fatal message
+2022-03-10T19:38:50,274 [main] ERROR (Log4jDemo.java:21) - This is error message
+2022-03-10T19:38:50,275 [main] ERROR (Log4jDemo.java:27) - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 3
