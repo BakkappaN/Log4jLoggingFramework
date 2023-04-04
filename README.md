@@ -9,6 +9,15 @@ Log4j Logging Framework, Selenium Automation Testing Framework
 
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-slf4j-impl</artifactId>
+			<version>2.20.0</version>
+			<scope>test</scope>
+		</dependency>
+
+
+Old Maven Dependency
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
 			<version>2.17.2</version>
 			</dependency>
