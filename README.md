@@ -15,7 +15,7 @@ Log4j Logging Framework, Selenium Automation Testing Framework
 		</dependency>
 
 
-Old Maven Dependency
+### Old Maven Dependency
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
