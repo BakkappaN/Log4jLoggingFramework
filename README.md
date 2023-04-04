@@ -25,12 +25,12 @@ Log4j Logging Framework, Selenium Automation Testing Framework
 
 ```
 #Declare loggers 
-- name=LoggingConfig
-- appenders=a_console, a_rolling
-- rootLogger.level=info
-- rootLogger.appenderRefs=ar_console,ar_rolling
-- rootLogger.appenderRef.ar_console.ref=StdoutAppender
-- rootLogger.appenderRef.ar_rolling.ref=DailyRollingAppender
+name=LoggingConfig
+appenders=a_console, a_rolling
+rootLogger.level=info
+rootLogger.appenderRefs=ar_console,ar_rolling
+rootLogger.appenderRef.ar_console.ref=StdoutAppender
+rootLogger.appenderRef.ar_rolling.ref=DailyRollingAppender
 
 #Console logger
 appender.a_console.type=Console
